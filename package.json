@@ -9,6 +9,6 @@
   "author": "Tim Hayes",
   "license": "ISC",
   "dependencies": {
-    "@joncasey/google-fonts": "^0.1.0"
+    "@joncasey/google-fonts": "latest"
   }
 }
